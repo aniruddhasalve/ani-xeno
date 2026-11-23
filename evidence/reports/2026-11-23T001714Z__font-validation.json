@@ -1,0 +1,107 @@
+{
+  "project": "Ani Xeno",
+  "generated_at": "2026-11-23T00:17:14.428334+00:00",
+  "status": "pass",
+  "files": [
+    {
+      "file": "fonts/otf/AniXeno-Regular.otf",
+      "sha256": "4da6c806a4a07d176f55799a61aa180bf027bb41bb09c3cd4f98c5e061ae694b",
+      "checks": {
+        "opens": true,
+        "has_name_table": true,
+        "family_is_ani_xeno": true,
+        "full_name_present": true,
+        "designer_is_aniruddha_salve": true,
+        "has_unicode_map": true,
+        "glyph_count": 81
+      },
+      "names": {
+        "family": [
+          "Ani Xeno"
+        ],
+        "full": [
+          "Ani Xeno Regular"
+        ],
+        "designer": [
+          "Aniruddha Salve"
+        ]
+      },
+      "status": "pass"
+    },
+    {
+      "file": "fonts/ttf/AniXeno-Regular.ttf",
+      "sha256": "4da6c806a4a07d176f55799a61aa180bf027bb41bb09c3cd4f98c5e061ae694b",
+      "checks": {
+        "opens": true,
+        "has_name_table": true,
+        "family_is_ani_xeno": true,
+        "full_name_present": true,
+        "designer_is_aniruddha_salve": true,
+        "has_unicode_map": true,
+        "glyph_count": 81
+      },
+      "names": {
+        "family": [
+          "Ani Xeno"
+        ],
+        "full": [
+          "Ani Xeno Regular"
+        ],
+        "designer": [
+          "Aniruddha Salve"
+        ]
+      },
+      "status": "pass"
+    },
+    {
+      "file": "fonts/webfonts/AniXeno-Regular.woff",
+      "sha256": "20c17d1fb9a3ed6ac30ef7d7fb2412ba0553cb33cef7fe18a51a96f5a8488b15",
+      "checks": {
+        "opens": true,
+        "has_name_table": true,
+        "family_is_ani_xeno": true,
+        "full_name_present": true,
+        "designer_is_aniruddha_salve": true,
+        "has_unicode_map": true,
+        "glyph_count": 81
+      },
+      "names": {
+        "family": [
+          "Ani Xeno"
+        ],
+        "full": [
+          "Ani Xeno Regular"
+        ],
+        "designer": [
+          "Aniruddha Salve"
+        ]
+      },
+      "status": "pass"
+    },
+    {
+      "file": "fonts/webfonts/AniXeno-Regular.woff2",
+      "sha256": "1a47dab58470f7ee2ea4247530479766b9ee2405226262c92b254a944c968ad7",
+      "checks": {
+        "opens": true,
+        "has_name_table": true,
+        "family_is_ani_xeno": true,
+        "full_name_present": true,
+        "designer_is_aniruddha_salve": true,
+        "has_unicode_map": true,
+        "glyph_count": 81
+      },
+      "names": {
+        "family": [
+          "Ani Xeno"
+        ],
+        "full": [
+          "Ani Xeno Regular"
+        ],
+        "designer": [
+          "Aniruddha Salve"
+        ]
+      },
+      "status": "pass"
+    }
+  ]
+}
